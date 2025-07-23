@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+CMakeFiles/
+*.o
+*.a
+*.so
+*.dll
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# generated data
+image_tensor.pt
