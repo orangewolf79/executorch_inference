@@ -17,8 +17,9 @@ __pycache__/
 *.pyc
 .venv/
 
-# generated data
+# generated data and model
 image_tensor.pt
+model.pte
 
 # executorch
 third_party/executorch
