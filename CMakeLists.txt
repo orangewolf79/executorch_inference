@@ -15,7 +15,7 @@ add_executable(main source/main.cpp)
 # executorch + libtorch core libraries
 target_link_libraries(main
     PRIVATE
-      executorch                  
+      executorch            
       ${TORCH_LIBRARIES}
 )
 

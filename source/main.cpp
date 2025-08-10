@@ -48,5 +48,4 @@ int main() {
   
   std::cout << "Prediction: " << labels[max_idx] << std::endl;
 
-
 }

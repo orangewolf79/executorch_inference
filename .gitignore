@@ -19,3 +19,6 @@ __pycache__/
 
 # generated data
 image_tensor.pt
+
+# executorch
+third_party/executorch
