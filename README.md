@@ -47,11 +47,9 @@ cmake --build .
 ./main
 ```
 
-Presently, "cmake --build ." causes failure, citing undefined symbols for architecture arm_64
 ### 2. Running Docker Image:
 Check Dockerfile for more details
 From the root of the project:
-Also causes failure - buck2 installation fails even though it is not required for running locally
 
 `docker build -t executorch_inference .`
 
