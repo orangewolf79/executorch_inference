@@ -1,4 +1,7 @@
 ## ExecuTorch Inference using EfficientNet
+
+ Inference Backend for Smriti - https://github.com/prabhuomkar/smriti
+ 
  Clone the repo into a new directory:
 
 `git clone https://github.com/orangewolf79/executorch_tests`
